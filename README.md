@@ -2,6 +2,20 @@
 
 Make a video call with your loved ones!.
 
+Create your account on [agora.io](https://www.agora.io/en/)
+
+---
+
+Add .env file in root of application with
+
+- APP_ID = Your App id
+- Token= your token
+
+For debug purpose channel name=hello
+
+
+---
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
