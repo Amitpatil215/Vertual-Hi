@@ -1,4 +1,4 @@
-# Vertual Hi
+# virtual Hi
 
 Make a video call with your loved ones!.
 
